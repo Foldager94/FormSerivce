@@ -1,0 +1,17 @@
+C:\Decuria\Diplomprojekt\FormService\Infrastructure\bin\Debug\net9.0\Infrastructure.deps.json
+C:\Decuria\Diplomprojekt\FormService\Infrastructure\bin\Debug\net9.0\Infrastructure.dll
+C:\Decuria\Diplomprojekt\FormService\Infrastructure\bin\Debug\net9.0\Infrastructure.pdb
+C:\Decuria\Diplomprojekt\FormService\Infrastructure\bin\Debug\net9.0\Domain.dll
+C:\Decuria\Diplomprojekt\FormService\Infrastructure\bin\Debug\net9.0\Domain.pdb
+C:\Decuria\Diplomprojekt\FormService\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Decuria\Diplomprojekt\FormService\Infrastructure\obj\Debug\net9.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Decuria\Diplomprojekt\FormService\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Decuria\Diplomprojekt\FormService\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfo.cs
+C:\Decuria\Diplomprojekt\FormService\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Decuria\Diplomprojekt\FormService\Infrastructure\obj\Debug\net9.0\Infrastr.15EFFBFE.Up2Date
+C:\Decuria\Diplomprojekt\FormService\Infrastructure\obj\Debug\net9.0\Infrastructure.dll
+C:\Decuria\Diplomprojekt\FormService\Infrastructure\obj\Debug\net9.0\refint\Infrastructure.dll
+C:\Decuria\Diplomprojekt\FormService\Infrastructure\obj\Debug\net9.0\Infrastructure.pdb
+C:\Decuria\Diplomprojekt\FormService\Infrastructure\obj\Debug\net9.0\ref\Infrastructure.dll
+C:\Decuria\Diplomprojekt\FormService\Infrastructure\bin\Debug\net9.0\Application.dll
+C:\Decuria\Diplomprojekt\FormService\Infrastructure\bin\Debug\net9.0\Application.pdb

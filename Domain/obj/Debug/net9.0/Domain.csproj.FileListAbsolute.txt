@@ -1,0 +1,11 @@
+C:\Decuria\Diplomprojekt\FormService\Domain\bin\Debug\net9.0\Domain.deps.json
+C:\Decuria\Diplomprojekt\FormService\Domain\bin\Debug\net9.0\Domain.dll
+C:\Decuria\Diplomprojekt\FormService\Domain\bin\Debug\net9.0\Domain.pdb
+C:\Decuria\Diplomprojekt\FormService\Domain\obj\Debug\net9.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Decuria\Diplomprojekt\FormService\Domain\obj\Debug\net9.0\Domain.AssemblyInfoInputs.cache
+C:\Decuria\Diplomprojekt\FormService\Domain\obj\Debug\net9.0\Domain.AssemblyInfo.cs
+C:\Decuria\Diplomprojekt\FormService\Domain\obj\Debug\net9.0\Domain.csproj.CoreCompileInputs.cache
+C:\Decuria\Diplomprojekt\FormService\Domain\obj\Debug\net9.0\Domain.dll
+C:\Decuria\Diplomprojekt\FormService\Domain\obj\Debug\net9.0\refint\Domain.dll
+C:\Decuria\Diplomprojekt\FormService\Domain\obj\Debug\net9.0\Domain.pdb
+C:\Decuria\Diplomprojekt\FormService\Domain\obj\Debug\net9.0\ref\Domain.dll
