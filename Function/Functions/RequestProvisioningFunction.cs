@@ -27,10 +27,16 @@ public class RequestProvisioningFunction(ILogger<RequestProvisioningFunction> lo
 
         var result = dataValidation.ValidateAgainstSchema(jsonElement, formSchema);
         if (result.Count != 0)
-            return new ObjectResult("Failed: " + string.Join(", ", result.Select(e => e.ToString())));
+            return new BadRequestObjectResult(new
+            {
+                error = "Validation failed",
+                validationErrors = result.Select(e => e.ToString()).ToList()
+            });
+
+
         
         await provisioningRequestRepository.SendProvisioningRequestAsync(requestBody);
-        return new OkObjectResult($"That was very nice");
+        return new OkObjectResult(new { message = "That was very nice" });
 
     }
 

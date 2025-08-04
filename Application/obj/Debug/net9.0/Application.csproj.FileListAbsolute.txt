@@ -13,3 +13,7 @@ C:\Decuria\Diplomprojekt\FormService\Application\bin\Debug\net9.0\Domain.dll
 C:\Decuria\Diplomprojekt\FormService\Application\bin\Debug\net9.0\Domain.pdb
 C:\Decuria\Diplomprojekt\FormService\Application\obj\Debug\net9.0\Application.csproj.AssemblyReference.cache
 C:\Decuria\Diplomprojekt\FormService\Application\obj\Debug\net9.0\Applicat.44B5EDA2.Up2Date
+C:\Decuria\Diplomprojekt\FormService\Function\bin\output\Application.deps.json
+C:\Decuria\Diplomprojekt\FormService\Function\bin\output\Application.dll
+C:\Decuria\Diplomprojekt\FormService\Function\bin\output\Application.pdb
+C:\Decuria\Diplomprojekt\FormService\Application\obj\Debug\net9.0\Application.sourcelink.json

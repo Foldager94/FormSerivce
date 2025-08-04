@@ -9,7 +9,7 @@ public class FieldValidationFactory : IFieldValidationFactory
 {
     public IFieldValidation Create(JsonElement json)
     {
-        var required = json.TryGetProperty("required", out var req) && req.GetBoolean();
+        var required = json.TryGetProperty("isRequired", out var req) && req.GetBoolean();
         int? minLength = json.TryGetProperty("minLength", out var min)
             ? min.GetInt32()
             : null;

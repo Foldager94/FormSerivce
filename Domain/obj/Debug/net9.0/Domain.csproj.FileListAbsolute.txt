@@ -9,3 +9,7 @@ C:\Decuria\Diplomprojekt\FormService\Domain\obj\Debug\net9.0\Domain.dll
 C:\Decuria\Diplomprojekt\FormService\Domain\obj\Debug\net9.0\refint\Domain.dll
 C:\Decuria\Diplomprojekt\FormService\Domain\obj\Debug\net9.0\Domain.pdb
 C:\Decuria\Diplomprojekt\FormService\Domain\obj\Debug\net9.0\ref\Domain.dll
+C:\Decuria\Diplomprojekt\FormService\Function\bin\output\Domain.deps.json
+C:\Decuria\Diplomprojekt\FormService\Function\bin\output\Domain.dll
+C:\Decuria\Diplomprojekt\FormService\Function\bin\output\Domain.pdb
+C:\Decuria\Diplomprojekt\FormService\Domain\obj\Debug\net9.0\Domain.sourcelink.json
